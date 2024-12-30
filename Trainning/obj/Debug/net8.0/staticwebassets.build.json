@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "Bxm2zkmc9T2Dc3XURB79DhgSDZkQhxm3c1Xf0fy0D4I=",
+  "Hash": "eJzRMweLU56ExxRanspVSq5GIJgjrmW2zMdHRU8VdOw=",
   "Source": "Trainning",
   "BasePath": "_content/Trainning",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
